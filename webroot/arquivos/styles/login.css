@@ -1,0 +1,33 @@
+body {
+	background-image: url(../images/bglogin.jpg);
+	background-repeat: no-repeat;
+	background-blend-mode: luminosity;
+}
+.authentication .auth_form{
+	background: hsla(0, 0%, 0%, 0.56);
+	box-shadow: 0 0 113px 21px rgba(0, 0, 0, 0.74), 0 6px 20px rgb(41, 42, 51);
+}
+.authentication .auth_form h5{
+	color: #fff;
+}
+.form-control { 
+	background: rgba(255, 255, 255, 0.7);
+}
+a {
+	color: #ffffff;
+}
+.card .header{
+	padding: 0
+}
+.copyright {
+	color: #fff;
+}
+.card {
+	box-shadow: 0px 0px 95px 33px #0000001a;
+	min-height: 285px;
+	padding: 0;
+}
+.btn-r {
+	position: absolute !important;
+	right: 1%;
+}
